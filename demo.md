@@ -160,6 +160,6 @@ $ bxaws s3 cp s3://my_bucket/ < trainingID>/learner-1/training-log.txt -
 
 
 ## Enjoy
-Content derived from material provided by Kaouta el Maghraoui (IBM Research), German Goldszmidt (IBM WCP),
+Content derived from material provided by Kaoutar el Maghraoui (IBM Research), German Goldszmidt (IBM WCP),
 Hendryk Strobelt (IBM Research).
 
